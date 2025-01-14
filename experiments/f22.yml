@@ -1,5 +1,7 @@
 # This file was edited by CloudBees Feature Management
 type: experiment
-flag: f22
-value: true
 enabled: false
+flag: f22
+value:
+  - percentage: 50
+    option: true
