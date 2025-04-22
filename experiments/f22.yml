@@ -3,5 +3,5 @@ type: experiment
 enabled: false
 flag: f22
 value:
-  - percentage: 50
+  - percentage: 20
     option: true
