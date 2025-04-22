@@ -5,8 +5,4 @@ flag: str
 availableValues:
   - s3
   - s2
-value:
-  - percentage: 50
-    option: s3
-  - percentage: 50
-    option: s2
+value: s2
