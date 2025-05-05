@@ -5,4 +5,8 @@ availableValues:
   - s3
   - s2
   - s1
+conditions:
+  - group:
+      name: tg1
+    value: s2
 value: s3
