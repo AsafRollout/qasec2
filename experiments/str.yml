@@ -1,9 +1,8 @@
 # This file was edited by CloudBees Feature Management
 type: experiment
-enabled: true
 flag: str
 availableValues:
   - s3
   - s2
   - s1
-value: s1
+value: s2
