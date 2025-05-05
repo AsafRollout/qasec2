@@ -1,0 +1,7 @@
+# This file was edited by CloudBees Feature Management
+type: experiment
+labels:
+  - lbl
+enabled: false
+flag: f22
+value: true
